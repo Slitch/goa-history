@@ -1,6 +1,8 @@
 link:
 http://web.archive.org/web/20031225231048/http://www.princeton.edu/~cspock/Goa_Trance.htm
 
+# Goa Trance: A Psykotropic Trip Through Tribedelic Transcapes.
+
 By Fred Cole and Michael Hannan
 
 ## Abstract
