@@ -1,48 +1,9 @@
-# goa-history
-
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Slitch
-Slitch /
-goa-history
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-goa-history/goa.html
-@Slitch
-Slitch goa.html
-Latest commit 6b87bda in 6 hours
-History
-1 contributor
-264 lines (128 sloc) 47.2 KB
 link:
 http://web.archive.org/web/20031225231048/http://www.princeton.edu/~cspock/Goa_Trance.htm
 
-
-
 By Fred Cole and Michael Hannan
 
- 
-
-Abstract
+##Abstract
 
 This article explores the phenomenon of Goa trance, a form of electronic dance party music originating on the beaches of Goa, on the Indian subcontinent. The term "Goa trance" and the range of alternative terms for Goa trance are discussed. The history of the Goa scene is examined in a number of stages. The geographical area itself has had a fascinating history which is briefly summarised. Following that, the early history of the Goa beach scene in the 60s and 70s is described, before a more detailed examination of the heyday period in which the Goa trance style was developed. The decline of the Goa trance scene in Goa itself is also discussed. Since Goa trance was developed in the Goa area by an international community of DJs and recording artists from Europe, Australasia and other parts of Asia such as Japan, its dispersal back to these parts of the world is explored. The current commercialisation of the style is described and the main recording artists, DJs and record labels are identified.
 
@@ -50,7 +11,7 @@ The second part of this article is concerned with analysing some of the stylisti
 
 The data for the historical and much of the descriptive material for this article comes from two main sources. The first consists of interviews conducted by Fred Cole with a number of the important DJs and artists who worked in Goa during the main period. These include Ray Castle, Steve Psyko and Fred Disko. A second source of data is the World Wide Web. Many web sites are devoted to Goa Trance, including home pages of important DJs such as Goa Gil.
 
-Terminology
+##Terminology
 
 In the last decade of dance music there have been hundreds of terms coined to describe the main genres and the various subgenres of musical production. Judging by its use in the dance music press and on the dozens of WWW pages devoted to the genre, the term Goa trance has achieved some level of currency. In his 1996 interview, Ray Castle (in Cole, 1996a) stated that "it 's only in the last two years we've started hearing these words 'Goa trance'....before that I used to call the parties 'Trance Dance'." Steve Psyko (in Cole 1996b) believes that the term was invented by the English, because they "always want to put a label on something like that". Further more, as with punk, "they have stereotyped Goa trance; they have decided that Goa trance is just one kind of music." As this article proceeds it will become clear that one of the striking characteristics of the music played in Goa since the early 1980s, is its stylistic diversity. None the less, the contemporary recorded music marketed under the label of Goa trance or some variant of it, may indeed have certain definable stylistic characteristics. This theory will be examined below under the heading 'Musical Style'.
 
@@ -58,7 +19,7 @@ The currency of terminology is also subject to waves of fashion. One UK party pr
 
 Added to the possible confusion created by this plethora of terms, is the frequent association with other established genres such as techno, acid trance, and acid house. Sharif (1996) suggests, for example, that "among many of its devotees, [Goa trance] is considered to be the purest form of acid house music."
 
-History of Goa Trance
+##History of Goa Trance
 
 The area of Goa, situated approximately half-way down the western coastline of the southern part of India, has had a colourful history of occupation. From the tenth century until early in the sixteenth century it vacillated between Hindu and Muslim rule. In 1510 it was taken by the Portuguese whose presence lasted, except for a few short periods of occupation by the British from 1797-98 and 1802-13, until 1961. In that year the Indian Army took possession. The presence of the Portuguese for 450 years had a strong effect on the cultural life of Goa, clearly evident in the present era by the many Catholic churches and monasteries and other characteristic architecture, but also reflected in the cuisine and the arts.
 
@@ -110,7 +71,7 @@ International pressure was also a factor. Boyd (1996) cites a report that the "I
 
 Apart from police intervention at parties, there were many reports of burglary, mugging and police harassment of the foreign visitors to the Goa trance scene.
 
-Goa Trance in Other Locations
+##Goa Trance in Other Locations
 
 What has become known as Goa trance, has, especially since about 1990, spread widely to other places through the movement of DJs, artists and partiers, through commercialisation in clubs, and by the release of recordings. The DJs from Goa have been performing Goa trance sets in other countries throughout the history of Goa Trance. Fred Disko did parties in Nepal in 1985 and Thailand in 1987. Ray Castle did a series of trance dance parties in Europe from 1987 to 1991 under the name of Pagan Productions. He has also worked a lot in Japan and has stated (in Cole 1996a, p. 9) that the main circuit for Goa trance since the late 1980s has been Tokyo-Goa-Amsterdam. Steve Psyko, who currently spends six months of each year recording in Sweden, recalls (in Cole 1996b, p. 7) attending some Goa Trance parties in Sydney in the late 1980s, and he started making them himself in Melbourne in 1991. Despite the fact that an identifiable musical style or range of stylistic approaches to music played at Goa trance parties has existed at least since the mid 1980s, Ray Castle (in Cole 1996a, p. 9) believes "it wasn't until 1991 or 1992 that people went back to Europe, or Japan, or even Australia, and began making music specifically for psychedelic trance parties".
 
@@ -136,7 +97,7 @@ In England in the last year the trance thing has got really big.....bands like T
 
 Sharif (1996) reports that "Goa trance has now become the latest vibe of city clubland- with tracks like Robert Miles' Top 5 hit "Children" signalling its march into the mainstream". He also quotes French DJ Yohann as saying that the Goa trance "craze [is] dominating house parties, pulling more than 4000 people to each rave".
 
-Artists, DJs and Record Labels
+#Artists, DJs and Record Labels
 
 Below are lists of Record labels, artists and DJs who are currently commercially active in Goa Trance. Although containing substantial numbers of names the lists are far from complete.
 
@@ -148,7 +109,7 @@ DJs include Paul Oakenfold (UK), Goa Gil (USA), Ray Castle (New Zealand), Steve 
 
 Many DJs are also involved in recording tracks for commercial issue often in collaboration with other artists or DJs. For example Ray Castle is a member of Rhythmystic, Masaray, Insectoid and Mantaray, collaborating with different people for each project. Another good example is Psyko Disko which is a collaboration between two DJs (Fred Disko and Steve Psycho) and a musician/DJ (Ollie Olsen).
 
-The Aesthetics of Goa Trance:
+##The Aesthetics of Goa Trance:
 
 Goa Gil (1996) draws the link between the Goa trance phenomenon and the revival of awareness in ancient tribal practices. He claims to be attempting to "use trance music and trance dance experience to set off a chain reaction in consciousness", believing that "since the beginning of time mankind has used music and dance to commune with the spirit of nature and the universe". His aim as a Goa artist is to "[redefine] the ancient tribal ritual for the 21st century."
 
@@ -160,7 +121,7 @@ Furthermore, for Castle (1996a) "there is a transcendental, peak experience qual
 
 The DJ as shaman is a recurring metaphor in writings about Goa trance. It is also applied to the artists (often DJs as well) who create the tracks of commercially issued recordings. The notes for TIP's Blue Compilation suggests, for example, that the composers "vibrate the skull, gently massaging and revitalising the brain, shaking out the psychic cobwebs" and further that "with their healing vibrational medicine [they] transport us to megaverses of aural delights." The tribal emphasis in the aesthetic of Goa trance is also reflected in the visual elements used in parties. Sharif (1996) comments, for example, that "Goa trance inspired dance parties now being held in the UK and Europe ...heavily borrow from imagery of Indian, Maori, Australian Aboriginal and Native American cultures".
 
-Musical Style
+##Musical Style
 
 There are various definitions relating to the musical style of Goa Trance available on the World Wide Web and in other locations. Most of them are a mixture of subjective, often flamboyant descriptive phrases and some technically oriented information. One typical example (on the Clubdub/Cybernia homepage) is:
 
@@ -174,7 +135,7 @@ In general, the structure of a Goa trance track reflects the idea of a journey, 
 
 In the same way as each individual track takes the listener on a journey, there exists an expanded level of this process in the DJ's set, which in the classic Goa full moon party can last eight to ten hours. When the set starts, usually around 10pm the energy and mood of the music is relatively restrained, but it slowly builds over the next four or more hours until around 2am to 4am, when the highest energy levels are attained.. As dawn approaches the energy levels remain high, but there is a subtle shift in the sound of the music, with a noticeable emphasis on increased high frequency content.
 
-Tempo
+##Tempo
 
 The bpm (beats per minute) range of Goa trance tracks is most commonly from 140 bpm to 152 bpm, with most DJ sets hovering around the 144 bpm mark. On the most recent compilations surveyed, the average bpm seems to have increased with many of the tracks clocking at around 150 bpm, whereas an earlier recording, Order Odonata (Dragonfly Records, 1994), has most of the tracks in the 130-140 bpm range. This suggest that the tempo of Goa Trance is on the increase. Indeed there has been some discussion of the tempi of recent tracks on the Goa Trance mailing list, with some subscribers complaining that the genre has become too fast.
 
@@ -186,7 +147,7 @@ You had to guess the end of it; you had to know your music well; you didn't have
 
 Goa trance DJs rigorously label all their DATs with track titles, durations, and bpms. All tracks have ID numbers to enable quick location. The use of CD players is becoming more common, as more Goa trance is being released on CD, and vari-speed CD decks become more affordable.
 
-Sounds
+##Sounds
 
 In common with most forms of techno, or electronic dance music, the most prominent ingredient of Goa Trance is the kick drum. In Goa trance however, the kick tends to be quite dominant, often processed through an effects unit independently of the rest of the track.The thick, 'beefy' bass drum sounds associated with this style are often, if not exclusively, based on those of the Roland TR909 drum machine. This machine, manufactured circa 1984, was the last of the Roland drum machines to incorporate analogue synthesised drum sounds, as opposed to sampled waveforms. This meant that it was possible to shape the sound using rotary knobs on the front of the machine to adjust parameters such as decay, attack, timbre etc. As these machines are now hard to acquire, most Goa trance artists use samples of the TR909 or similar vintage drum machines in their work. However, as the TR909 is capable of many hundreds of different timbres, a large amount of variation through multiple sampling is still possible. The basic kick sounds are often augmented by adding in a low tom, or sometimes even a sampled synth bass timbre, to give extra punch and definition.
 
@@ -198,15 +159,15 @@ A feature of Goa trance tracks is the inclusion of sampled voice snippets of tex
 
 Goa trance tracks nearly always have a 16th note single pitch repetition, using a sharply defined upper harmonic filter swept synth timbre with the oscillator close to the point of resonance. The filter cut-off point is often achieved graphically using tools found in the most popular computer sequencing packages such as Steinberg's Cubase or E-Magic's Logic. This enables a simple 16th note single pitched repeated note to become a rhythmic entity in its own right, as the audible component of the sound fades in and out of the human hearing range. It can also take on melodic qualities as the resonance control on the filter approaches higher values.
 
-Form
+##Form
 
 The form of Goa trance tracks follow a fairly rigid framework, based on 8 or 16 bar building blocks. The changes in texture invariably coincide with the 8 bar divisions, although sometimes an additional part will fade in through an 8 bar cycle. Often a high frequency swirling fill will signal the beginning of a new block. This track construction process is influenced by computer sequencer design, encouraging a building block approach to composition. There is a process of layer interchange between subsequent blocks, where one or two layers of the texture are added or removed, often using material rhythmically or melodically related to previous sections.
 
-Treatments
+##Treatments
 
 Sometimes long sustained sounds or samples, often incorporating slow harmonic filter sweeps are subjected to 16th or 32nd note gating in a rhythmic pattern. Heavy distortion is often employed on the synth and kick sounds. Oscillator cross modulation and hard oscillator sync produce wild, chaotic harmonic shifts. Constant filter sweeps on all parts except the kick produce a continually changing frequency balance. Different parts are often given different reverbs, to place each layer in a different acoustic space. Delay is used as a compositional device, with the delay time synched to the tempo of the track, either in 16th , 8th note, or some dotted note division. Repetition of single notes within the melodic fragments is used to accentuate the trance like qualities of the multiple delay effects found in the majority of Goa Trance tracks.
 
-Tonal and Melodic Devices
+#Tonal and Melodic Devices
 
 The pitch organisational basis of Goa trance, as with many other dance music genres, is the centering on a single tone. This idea is related, perhaps coincidentally, to the modal centering of Indian classical music. There are however several tracks among those surveyed that involve shifts to another centre, usually in the middle of the piece. There a number of tracks that shift down to the centre defined by the flat seventh of the main centre [eg "Sirius 2" - Satori Razor, Trancentral four - A Trip To Goa, 1996]; and a few others that move up to the centre defined by the flat third of the main centre.
 
@@ -218,7 +179,7 @@ Rhythm and Rhythmic Division
 
 The introductory sections of Goa trance tracks typically contain wild analogue synthesiser sound textures and a complex rhythmic or metrical organisation. The tempo of the track is often not predictable until revealed by the entry of the kick drum. The 16th note is the basic rhythmic division of the style. 32nd note rolls are sometimes used as fills at the end of a section. . Rhythmic developments of the original motif slowly build in density and intensity, usually in blocks of 16 or 32 bars. The quarter note kick drum 'doof' will then drop out for a couple of bars. Often the whole track will stop and a soft voice will utter a thought-provoking phrase such as "I don't know ........ It may be something to do with being in the mountains ' [DOOF - Star Above Parvatti, TIP Blue Compilation 1995]. Then the track will resume with the re-entry of the kick drum. The last section of a track is often a mirror image of the arrangement sequence at the beginning of the track. The bass sequence is generally the prime rhythmic determinant in the textural organisation of a track.
 
-Conclusion
+##Conclusion
 
 The use of the term Goa trance is contentious among many of the practitioners of the genre, but on balance it appears to be useful for representing both the historical origins and practices of the Goa dance party and the recent emergence of artists who are working with what seems to be a coherent set of stylistic practices in the making of commercial recordings. The focus of Goa trance has always been on the DJ who takes the participant on a mystical journey during the course of an all-night party. The DJs who regularly visited Goa, particularly over the period from the early 1980s to the early 1990s, determined the emergence of a range of existing recorded and remixed musical styles appropriate for use at Goa trance parties. These same DJs helped spread the idea of the Goa-style party to other parts of the world, and also stimulated the practice of creating recordings especially written for use at trance parties. In many cases the original Goa DJs are also actively involved in the making of contemporary Goa trance recordings. The current popularity of Goa trance has led to the establishment of many record labels devoted to the dissemination of the genre to an increasing record buying market. The Goa trance party has evolved into a commercially organised indoor event in the large cities of Europe and North America, but its original outdoor tropical tribedelic character is still represented by parties held, for example, on the beaches and in the forests of Northern New South Wales in Australia.
 
